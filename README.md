@@ -44,7 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">🔄 Activity Graph:</h3>
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekyadavab&bg_color=ffffff&color=0e75b6&line=00bcd4&point=1abc9c&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>

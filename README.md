@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Yadav</h1>
-<h3 align="center">Aspiring Business & Data Analyst | Transforming data into insights using SQL, Python, Power BI, SAS & Databricks</h3>
+<h3 align="center">Business & Data Analyst | Turning raw data into actionable insights with SQL, Python, Power BI, SAS & Databricks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekyadavab&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyadavab" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishekyadavab" alt="abhishekyadavab" />
-  </a>
-</p>
-
 <ul>
-  <li>✨ Currently working on: <strong>Supply Chain Analytics for E-Commerce – Demand Forecasting & BI Dashboards</strong></li>
-  <li>🌱 Actively learning: <strong>Advanced ML techniques (XGBoost, TensorFlow), Azure Data Fundamentals</strong></li>
-  <li>🤝 Open to collaboration on: <strong>Power BI & Cognos dashboard design, SQL optimization tasks</strong></li>
-  <li>👨‍💻 Portfolio & Projects: <a href="https://github.com/abhishekyadavab" target="_blank">GitHub - abhishekyadavab</a></li>
-  <li>💬 Ask me about: <strong>SQL performance tuning, ETL pipelines, dashboard storytelling</strong></li>
-  <li>📧 Reach me at: <strong>abhishekyadav23122002@gmail.com</strong></li>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">Abhishek Yadav</a></li>
+  <li>✨ <strong>Currently working on:</strong> Supply Chain Analytics for E-Commerce – Demand Forecasting & BI Dashboards</li>
+  <li>🌱 <strong>Actively learning:</strong> Advanced ML techniques (XGBoost, TensorFlow), Azure Data Fundamentals</li>
+  <li>🤝 <strong>Open to collaboration on:</strong> Power BI & Cognos dashboard design, SQL optimization tasks</li>
+  <li>💻 <strong>Portfolio & Projects:</strong> <a href="https://github.com/abhishekyadavab" target="_blank">GitHub - abhishekyadavab</a></li>
+  <li>💬 <strong>Ask me about:</strong> SQL performance tuning, ETL pipelines, dashboard storytelling</li>
+  <li>📧 <strong>Reach me at:</strong> abhishekyadav23122002@gmail.com</li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">Abhishek Yadav</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -38,11 +32,19 @@
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="cognos" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="cognos" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/SAS_logo_horiz.svg" alt="sas" width="70" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekyadavab&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">🔄 Activity Graph:</h3>
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekyadavab&bg_color=ffffff&color=0e75b6&line=00bcd4&point=1abc9c&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>

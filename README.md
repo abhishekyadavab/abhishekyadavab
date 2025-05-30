@@ -32,11 +32,9 @@
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="cognos" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/SAS_logo_horiz.svg" alt="sas" width="70" height="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>

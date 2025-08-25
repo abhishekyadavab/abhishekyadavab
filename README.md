@@ -65,23 +65,5 @@ Visualized Canadian well-being indicators (Health, Environment, Social Connected
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadavab&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
-</p>
 
----
 
-## 🤝 Let's Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhishekyadav23122002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishekyadav23122002%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/abhishekyadavab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-abhishekyadavab-black?logo=github" alt="GitHub"/>
-  </a>
-</p>

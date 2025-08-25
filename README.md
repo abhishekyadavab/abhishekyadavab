@@ -1,44 +1,87 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Yadav</h1>
-<h3 align="center">Business & Data Analyst | Turning raw data into actionable insights with SQL, Python, Power BI, SAS & Databricks</h3>
+<h1 align="center">Hi 👋, I'm Abhishek </h1>
+<h3 align="center">Business & Data Analyst | Data Visualization | BI & Analytics</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekyadavab&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyadavab" />
-</p>
-
-<ul>
-  <li>✨ <strong>Currently working on:</strong> Supply Chain Analytics for E-Commerce – Demand Forecasting & BI Dashboards</li>
-  <li>🌱 <strong>Actively learning:</strong> Advanced ML techniques (XGBoost, TensorFlow), Azure Data Fundamentals</li>
-  <li>🤝 <strong>Open to collaboration on:</strong> Power BI & Cognos dashboard design, SQL optimization tasks</li>
-  <li>💻 <strong>Portfolio & Projects:</strong> <a href="https://github.com/abhishekyadavab" target="_blank">GitHub - abhishekyadavab</a></li>
-  <li>💬 <strong>Ask me about:</strong> SQL performance tuning, ETL pipelines, dashboard storytelling</li>
-  <li>📧 <strong>Reach me at:</strong> abhishekyadav23122002@gmail.com</li>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">Abhishek Yadav</a></li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhishekyadav23122002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishekyadav23122002%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/abhishekyadavab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhishekyadavab-black?logo=github" alt="GitHub"/>
   </a>
 </p>
 
-<h3 align="left">Languages & Tools I Work With:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="cognos" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black" alt="powerbi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+---
+
+## 🚀 About Me
+🎯 Business & Data Analyst with strong expertise in **data visualization, business intelligence, and advanced analytics**.  
+I specialize in turning **complex datasets into meaningful insights** that support **strategic decisions** for organizations.  
+
+- 📊 Skilled in **Power BI, SQL, and Python** for dashboarding & reporting  
+- 🗄️ Strong in **SQL (MySQL, SQL Server)** for database querying & ETL  
+- 🐍 Proficient in **Python (Pandas, Scikit-learn, Seaborn)** for analysis & modeling  
+- ☁️ Exposure to **Azure & Databricks** for cloud-based data solutions  
+- 🔍 Passionate about **business analytics, financial modeling, and data-driven strategy**  
+
+---
+
+## 🛠️ Skills & Tools
+
+**Business Intelligence & Visualization**  
+Power BI | Cognos Analytics | SAS Visual Analytics | Dashboard Storytelling | KPI Design  
+
+**Data Analytics & Insights**  
+SQL (MySQL, SQL Server, Oracle) | Business Insights | Trend Analysis | ETL for Reporting  
+
+**Programming for Analytics**  
+Python (Pandas, NumPy, Seaborn, Scikit-learn basics for data prep & visualization)  
+
+**Core Focus**  
+Translating raw data into **business insights**, creating **interactive dashboards**, and delivering **data-driven recommendations** for decision-making.  
+
+**Cloud & Big Data**  
+Azure | Databricks  
+
+**Other**  
+Data Modeling | ETL Pipelines | Dashboard Storytelling  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 **Uber Trip Analysis Dashboard (Power BI)**  
+Interactive dashboard analyzing **103K+ Uber trips in NYC**, uncovering insights on demand, revenue, vehicle usage, and time patterns.  
+[View Project](https://github.com/abhishekyadavab/Uber-Trip-Analysis)  
+
+🔹 **Retail Sales Database (SQL)**  
+Designed and optimized a **star schema database** for retail analytics, including queries, stored procedures, and KPIs for sales insights.  
+[View Project](https://github.com/abhishekyadavab/Retail-Sales-DB)  
+
+🔹 **StatsCanada Insights (R | ggplot2)**  
+Visualized Canadian well-being indicators (Health, Environment, Social Connectedness) with **storytelling dashboards**.  
+[View Project](https://github.com/abhishekyadavab/StatsCanada-Insights)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadavab&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekyadavab&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
+---
 
+## 🤝 Let's Connect  
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-yadav-52b346201" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhishekyadav23122002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishekyadav23122002%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/abhishekyadavab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhishekyadavab-black?logo=github" alt="GitHub"/>
+  </a>
+</p>
